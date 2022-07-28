@@ -2,7 +2,7 @@
   "version": "0.4.5",
   "defaulttheme": "default",
   "website": {
-    "port": 80,
+    "port": 8000,
     "secret": "change this website session secret password, make sure to change this for your website's security"
   },
   "pterodactyl": {
